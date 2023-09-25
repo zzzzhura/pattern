@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\abstractFactory-main\ProductFactory\ProductFactoryLib\bin\Debug\ProductFactoryLib.dll
+C:\Users\user\Desktop\abstractFactory-main\ProductFactory\ProductFactoryLib\bin\Debug\ProductFactoryLib.pdb
+C:\Users\user\Desktop\abstractFactory-main\ProductFactory\ProductFactoryLib\obj\Debug\ProductFactoryLib.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\abstractFactory-main\ProductFactory\ProductFactoryLib\obj\Debug\ProductFactoryLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\abstractFactory-main\ProductFactory\ProductFactoryLib\obj\Debug\ProductFactoryLib.dll
+C:\Users\user\Desktop\abstractFactory-main\ProductFactory\ProductFactoryLib\obj\Debug\ProductFactoryLib.pdb

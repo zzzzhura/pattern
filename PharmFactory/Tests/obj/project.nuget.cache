@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "X5I3RXcS1OGYxhw/lYxO/JqtBrZkv8Wc2qvY4iiEN+PE35nlz9NOGTVVAoBC8MSQyY4U0nDrHKHmMsfhdVFrjA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\abstractFactory-main\\PharmFactory\\Tests\\Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\user\\Desktop\\abstractFactory-main\\PharmFactory\\PharmFactoryLib\\PharmFactoryLib.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\user\\Desktop\\abstractFactory-main\\PharmFactory\\PharmFactoryLib\\PharmFactoryLib.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

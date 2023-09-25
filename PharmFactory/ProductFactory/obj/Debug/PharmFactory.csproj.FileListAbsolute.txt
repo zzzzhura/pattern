@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\abstractFactory-main\ProductFactory\ProductFactory\bin\Debug\ProductFactory.exe.config
+C:\Users\user\Desktop\abstractFactory-main\ProductFactory\ProductFactory\bin\Debug\ProductFactory.exe
+C:\Users\user\Desktop\abstractFactory-main\ProductFactory\ProductFactory\bin\Debug\ProductFactory.pdb
+C:\Users\user\Desktop\abstractFactory-main\ProductFactory\ProductFactory\bin\Debug\ProductFactoryLib.dll
+C:\Users\user\Desktop\abstractFactory-main\ProductFactory\ProductFactory\bin\Debug\ProductFactoryLib.pdb
+C:\Users\user\Desktop\abstractFactory-main\ProductFactory\ProductFactory\obj\Debug\PharmFactory.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\abstractFactory-main\ProductFactory\ProductFactory\obj\Debug\PharmFactory.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\abstractFactory-main\ProductFactory\ProductFactory\obj\Debug\PharmFactory.csproj.CopyComplete
+C:\Users\user\Desktop\abstractFactory-main\ProductFactory\ProductFactory\obj\Debug\ProductFactory.exe
+C:\Users\user\Desktop\abstractFactory-main\ProductFactory\ProductFactory\obj\Debug\ProductFactory.pdb
